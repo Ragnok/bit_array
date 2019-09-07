@@ -1,0 +1,12 @@
+{
+    "p": [["lastname", "str", 8], ["age", "int", 4]],
+    "c": [["firstname", "str", 10], ["height", "float", 12]],
+    "d": [["coursename", "str", 20], ["coursenumber", "int", 4]],
+    "q": [["military_id", "str", 12], ["blood_type", "str", 2], ["rank", "int", 2]],
+    "n": [["station_name", "str", 13], ["station_number", "int", 5], ["response_time", "float", 8]],
+    "a": [["hometown", "str", 20], ["pop_density", "float", 15], ["long", "float", 8],
+          ["lat", "float", 4]],
+    "y": [["device_code", "str", 6], ["min_range", "float", 10], ["max_range", "float", 12]],
+    "z": [["connection_type", "str", 4], ["protocol", "int", 2], ["status", "int", 1]],
+    "s": [["session", "str", 4], ["duration", "float", 8], ["method", "str", 3]]
+}
